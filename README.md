@@ -1,0 +1,2 @@
+# miniconf
+Bandeaux Miniconfs
